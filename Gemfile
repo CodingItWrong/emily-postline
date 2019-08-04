@@ -38,3 +38,7 @@ group :test do
   gem 'capybara'
   gem 'factory_bot_rails'
 end
+
+group :production do
+  gem 'rack-attack'
+end
