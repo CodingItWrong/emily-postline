@@ -1,1 +1,6 @@
 @import "bootstrap";
+
+.navbar {
+  background: rgb(251,0,255);
+  background: linear-gradient(90deg, rgba(251,0,255,1) 0%, rgba(0,0,255,1) 35%, rgba(168,0,255,1) 68%, rgba(1,255,0,1) 100%);
+}
